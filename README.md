@@ -1,4 +1,4 @@
-# Toll And Vehicles
+# Fees And Vehicles
 
 Se requiere desarrollar un programa que modele un sistema de peaje. Las estaciones de peaje tienen un nombre, ciudad en que están ubicadas y un valor numérico que representa el valor total de peaje recolectado.
 
